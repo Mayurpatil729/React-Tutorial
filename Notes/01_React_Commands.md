@@ -70,6 +70,30 @@ create-react-app --version
 create-react-app <projectname>
 ```
 
+To install npm
+
+```
+npm install
+```
+
+##### Project creation using npx
+
+```
+npx create-react-app 01basicreact
+npm run start
+npm run build
+```
+
+##### Project creation using vite
+
+```
+npm create vite@latest
+```
+
+```
+npm run start
+```
+
 #### CMD
 
 ```
