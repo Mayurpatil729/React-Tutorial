@@ -2,6 +2,10 @@
 
 #### React
 
+###### Source code available at :
+
+https://github.com/facebook/react
+
 **A JavaScript library for building user interfaces**
 
 The user interface (Ul) is the point of human-computer interaction

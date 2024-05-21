@@ -7,12 +7,12 @@ node_modules folder is the repository of modules/library which you are using ins
 1. Public
 2. src
 
-###### React Libraries
+##### React Libraries
 
-import React from 'react';
-import ReactDOM from 'react-dom/client';
+1. import React from 'react';
+2. import ReactDOM from 'react-dom/client';
 
-###### Components Rules
+##### Components Rules
 
 1. Components name should be capital like Function, filename.
 2.
