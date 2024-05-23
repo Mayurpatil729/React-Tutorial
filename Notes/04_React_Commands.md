@@ -19,5 +19,7 @@ State generally refers to data or properties that need to be tracking in an appl
 
 `useState` accepts an initial state and returns two values:
 
-The current state.
-A function that updates the state.
+- The current state.
+- A function that updates the state.
+
+`useState` Hook can be used to keep track of strings, numbers, booleans, arrays, objects, and any combination of these.

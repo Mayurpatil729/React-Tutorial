@@ -27,6 +27,32 @@ React was first designed by Jorden Walke, a software engineer at Facebook
 It was first deployed for Facebook News feed around 2011.
 In 2013, React was open soærced at JS conference.
 
+- **Makes easy to manage & build complex front-end.**
+- When → After mastering JS.
+- When Created
+  - **_Facebook_** → phantom message problem
+  - State → Js & UI → DOM . Consistency in UI
+- React is a **_library._**
+
+---
+
+- Core of react(State or UI, JSX)
+- Component reusablility.
+- Reusing of component(Probs)
+- How to propagate Change(Hooks)
+- Router
+- Redux toolkit, Context API
+
+---
+
+Requirement : Vscode, node js.
+
+Web → React dom
+
+native apps → React native
+
+---
+
 #### About React
 
 Component based approach
